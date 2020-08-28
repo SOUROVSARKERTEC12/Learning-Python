@@ -1,1 +1,5 @@
-print("Hello World")
+print("/___|")
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
