@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41981a18-ef9a-4bf1-8d15-f840522ab254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="41981a18-ef9a-4bf1-8d15-f840522ab254" name="Default Changelist" comment="basic print">
+      <change afterPath="$PROJECT_DIR$/Simple Factorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,73 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Simple Factorial">
+    <configuration name="Easy Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FreeCodeCamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy Fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Simple Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FreeCodeCamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simple Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FreeCodeCamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FreeCodeCamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,7 +123,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Simple Factorial" />
+        <item itemvalue="Python.Easy Fibonacci" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.String" />
       </list>
     </recent_temporary>
   </component>
@@ -84,36 +152,74 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598627226354</updated>
-      <workItem from="1598627228426" duration="588000" />
+      <workItem from="1598627228426" duration="5979000" />
+      <workItem from="1598637348755" duration="635000" />
+      <workItem from="1599504328059" duration="27000" />
+      <workItem from="1599549003425" duration="4773000" />
     </task>
+    <task id="LOCAL-00001" summary="basic print">
+      <created>1598627891316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598627891316</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mid libs Game">
+      <created>1598628984135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598628984135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="URI 1151">
+      <created>1599553778935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599553778935</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic print" />
+    <MESSAGE value="Mid libs Game" />
+    <MESSAGE value="URI 1151" />
+    <option name="LAST_COMMIT_MESSAGE" value="URI 1151" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="345" y="43" key="CommitChangelistDialog2" timestamp="1598627836435">
+    <state x="345" y="43" key="CommitChangelistDialog2" timestamp="1599553778366">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="345" y="43" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1598627836435" />
-    <state width="1397" height="154" key="GridCell.Tab.0.bottom" timestamp="1598627851968">
+    <state x="345" y="43" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599553778366" />
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1599554366566">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="154" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1598627851968" />
-    <state width="1397" height="154" key="GridCell.Tab.0.center" timestamp="1598627851967">
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599554366566" />
+    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1599554366565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="154" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1598627851967" />
-    <state width="1397" height="154" key="GridCell.Tab.0.left" timestamp="1598627851967">
+    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599554366565" />
+    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1599554366565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="154" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1598627851967" />
-    <state width="1397" height="154" key="GridCell.Tab.0.right" timestamp="1598627851968">
+    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599554366565" />
+    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1599554366565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="154" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1598627851968" />
+    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599554366565" />
+    <state x="312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1598628991332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="312" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1598628991332" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FreeCodeCamp$app.coverage" NAME="app Coverage Results" MODIFIED="1598627851943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FreeCodeCamp$app.coverage" NAME="app Coverage Results" MODIFIED="1599550266999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FreeCodeCamp$String.coverage" NAME="String Coverage Results" MODIFIED="1598632785120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FreeCodeCamp$Easy_Fibonacci.coverage" NAME="Easy Fibonacci Coverage Results" MODIFIED="1599554068715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FreeCodeCamp$Simple_Factorial.coverage" NAME="Simple Factorial Coverage Results" MODIFIED="1599554366557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
