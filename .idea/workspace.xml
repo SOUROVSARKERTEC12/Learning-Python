@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41981a18-ef9a-4bf1-8d15-f840522ab254" name="Default Changelist" comment="URI 1153">
-      <change afterPath="$PROJECT_DIR$/Python Auto GUI/autolike.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/S Sequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -35,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.autolike">
+  <component name="RunManager" selected="Python.S Sequence">
     <configuration name="Easy Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FreeCodeCamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.autolike" />
         <item itemvalue="Python.S Sequence" />
+        <item itemvalue="Python.autolike" />
         <item itemvalue="Python.Simple Factorial" />
         <item itemvalue="Python.Easy Fibonacci" />
         <item itemvalue="Python.app" />
@@ -184,7 +183,8 @@
       <workItem from="1599549003425" duration="5801000" />
       <workItem from="1599583480211" duration="323000" />
       <workItem from="1599585526007" duration="900000" />
-      <workItem from="1599586428981" duration="1118000" />
+      <workItem from="1599586428981" duration="1218000" />
+      <workItem from="1599835151891" duration="585000" />
     </task>
     <task id="LOCAL-00001" summary="basic print">
       <created>1598627891316</created>
@@ -214,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599554414177</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="auto python">
+      <created>1599587611913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599587611913</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,37 +232,38 @@
     <MESSAGE value="Mid libs Game" />
     <MESSAGE value="URI 1151" />
     <MESSAGE value="URI 1153" />
-    <option name="LAST_COMMIT_MESSAGE" value="URI 1153" />
+    <MESSAGE value="auto python" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto python" />
   </component>
   <component name="WindowStateProjectService">
     <state x="312" y="108" key="#Notifications" timestamp="1599583523115">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="312" y="108" key="#Notifications/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599583523115" />
-    <state x="345" y="43" key="CommitChangelistDialog2" timestamp="1599554419100">
+    <state x="345" y="43" key="CommitChangelistDialog2" timestamp="1599587611186">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="345" y="43" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599554419100" />
-    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1599587545939">
+    <state x="345" y="43" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599587611186" />
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1599835524910">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599587545939" />
-    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1599587545939">
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599835524910" />
+    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1599835524910">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599587545939" />
-    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1599587545938">
+    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599835524910" />
+    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1599835524910">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599587545938" />
-    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1599587545939">
+    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599835524910" />
+    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1599835524910">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599587545939" />
-    <state x="312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1599554444217">
+    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599835524910" />
+    <state x="312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1599587618598">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="312" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599554444217" />
+    <state x="312" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1599587618598" />
     <state x="529" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599554453705">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -266,7 +274,7 @@
     <SUITE FILE_PATH="coverage/FreeCodeCamp$String.coverage" NAME="String Coverage Results" MODIFIED="1598632785120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FreeCodeCamp$Easy_Fibonacci.coverage" NAME="Easy Fibonacci Coverage Results" MODIFIED="1599554068715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FreeCodeCamp$Simple_Factorial.coverage" NAME="Simple Factorial Coverage Results" MODIFIED="1599554366557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FreeCodeCamp$S_Sequence.coverage" NAME="S Sequence Coverage Results" MODIFIED="1599555225798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FreeCodeCamp$autolike.coverage" NAME="autolike Coverage Results" MODIFIED="1599587545928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Auto GUI" />
+    <SUITE FILE_PATH="coverage/FreeCodeCamp$S_Sequence.coverage" NAME="S Sequence Coverage Results" MODIFIED="1599835524895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
